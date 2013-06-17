@@ -1,0 +1,3 @@
+1: DL notepad++
+2: DL/Install Python
+3: Config Path C:\...
